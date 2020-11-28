@@ -1,12 +1,14 @@
 # Flask-News-App
 A web application which uses Flask framework and python to fetch the daily news from news websites.
-Using BeautifulSoup for scraping the data and metadata such as 'title', 'description', 'published time', etc from the [xml](https://www.cnet.com/rss/all/) file of news website.
+Using BeautifulSoup for scraping the data and metadata such as 'title', 'description', 'published date', etc from the [xml](https://www.cnet.com/rss/all/) file of news website.
 Used Semantic UI in place of CSS to make website more attractive. Added semantic segment, container, button, etc in Html file. 
 
 
-### To run website on localhost:
-1. Run app.py 
-2. copy and paste url http://127.0.0.1:5000/ in any browser.
+### To run website on localhost: :+1:
+1. Clone the repository
+2. Download and extract the Zip file
+3. Run app.py 
+4. Copy and paste url http://127.0.0.1:5000/ in any browser.
 
 
 ## Output Images:
@@ -20,7 +22,7 @@ Used Semantic UI in place of CSS to make website more attractive. Added semantic
 2. xml data of website: https://www.cnet.com/rss/all/
 
 
-### Technology used:
+### Technology used: :rocket:
 1. Python
 2. Flask framework
 3. Web scraping using BeautifulSoup
@@ -28,13 +30,21 @@ Used Semantic UI in place of CSS to make website more attractive. Added semantic
 5. Semantic UI 
 
 
-### Features that can be added to this project are:
+### Features that can be added to this project are: :boom:
 1. We can deploy our web app on multiple cloud platform like aws, azure, heroku,etc for everyone.
 2. We can sql database for storing the data.
 
 
-### Tip: Make your own server.
+### Tip: make your own server. :sparkles:
 For serving this website to all local users, use your IP address and change
    
    **app.run()** to  **app.run(host='190.154.XXX.X',port ='8000')** in __**app.py**__ file.
+
+
+
+
+
+
+
+### If you finds this repository helpful :tada: then add :star: to it. Thanks :smiley:
 
