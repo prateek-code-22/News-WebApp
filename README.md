@@ -8,7 +8,7 @@ Used Semantic UI in place of CSS to make website more attractive. Added semantic
 1. Clone the repository
 2. Download and extract the Zip file
 3. Run app.py 
-4. Copy and paste url http://127.0.0.1:5000/ in any browser.
+4. Copy and paste this url http://127.0.0.1:5000/ in any browser.
 
 
 ## Output Images:
