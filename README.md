@@ -34,12 +34,10 @@ Used Semantic UI in place of CSS to make website more attractive. Added semantic
 1. We can deploy our web app on multiple cloud platform like aws, azure, heroku,etc for everyone.
 2. We can sql database for storing the data.
 
-
+<!--
 ### Tip: make your own server. :sparkles:
 For serving this website to all local users, use your IP address and change
-   
-   **app.run()** to  **app.run(host='190.154.XXX.X',port ='8000')** in __**app.py**__ file.
-
+   **app.run()** to  **app.run(host='190.154.XXX.X',port ='8000')** in __**app.py**__ file.-->
 
 
 
