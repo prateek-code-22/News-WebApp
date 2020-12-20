@@ -1,4 +1,4 @@
-# Flask-News-App
+# News-App
 A web application which uses Flask framework and python to fetch the daily news from news websites.
 Using BeautifulSoup for scraping the data and metadata such as 'title', 'description', 'published date and time', etc from the [xml](https://www.cnet.com/rss/all/) file of news website.
 Used Semantic UI in place of CSS to make website more attractive. Added semantic segment, container, button, etc in Html file. 
