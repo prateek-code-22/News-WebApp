@@ -32,8 +32,8 @@ Used Semantic UI in place of CSS to make website more attractive. Added semantic
 
 
 ### Features that can be added to this project are: :boom:
-1. We can deploy our web app on multiple cloud platform like aws, azure, heroku,etc for everyone.
-2. We can add Sql database for storing the data from website.
+1. We can deploy our web app on multiple cloud platform like aws, azure, heroku,etc for pubic.
+2. We can add database for storing the data(tables,records) from website.
 
 <!--
 ### Tip: make your own server. :sparkles:
